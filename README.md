@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shreyrastogi47.sr@gmail.com**
 
-- ⚡ Fun fact **What’s worse than biting into an apple and discovering a worm? Biting into an apple and discovering half a worm 🌝**
+- ⚡ Fun fact: **What’s worse than biting into an apple and discovering a worm? Biting into an apple and discovering half a worm 🌝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
