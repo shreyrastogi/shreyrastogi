@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shrey</h1>
 <h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyrastogi&label=Profile%20views&color=0e75b6&style=flat" alt="shreyrastogi" /> </p>
-
 - 🔭 I’m currently working on **something cool 😉**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Data Structures and Algorithms, C++, Android Development, MERN stack**
+- 💬 Ask me about **Data Structures and Algorithms, Android Development, MERN stack**
 
 - 📫 How to reach me **shreyrastogi47.sr@gmail.com**
 
