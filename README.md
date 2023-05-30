@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shrey</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shrey. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 <h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on **something cool 😉**
